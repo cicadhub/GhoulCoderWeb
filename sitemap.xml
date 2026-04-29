@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!--
+    Reemplaza ghoul-coder.example.com por tu dominio final antes de subir este archivo.
+    Si publicas la web en una sola pagina, esta URL principal es suficiente para empezar.
+  -->
+  <url>
+    <loc>https://ghoul-coder.example.com/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+</urlset>
